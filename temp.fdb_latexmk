@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1679678632 "c:/Users/anton/OneDrive - mirkovic.no/Dokumenter/latex template/temp.tex" "temp.pdf" "temp" 1679678634 0
+["pdflatex"] 1679680369 "c:/Users/anton/OneDrive - mirkovic.no/Dokumenter/latex-template/temp.tex" "temp.pdf" "temp" 1679680371 0
   "C:/Users/anton/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1679256438 83486 9208647d054da4672a050e7ed94c9aa5 ""
   "C:/Users/anton/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1679254495 23176374 ace984fc752e490e2a3959b817f67560 ""
   "C:/Users/anton/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -20,10 +20,12 @@
   "C:/Users/anton/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy10.tfm" 1136765053 1124 6c73e740cf17375f03eec0ee63599741 ""
   "C:/Users/anton/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy6.tfm" 1136765053 1116 933a60c408fc0a863a92debe84b2d294 ""
   "C:/Users/anton/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136765053 1120 8b7d695260f3cff42e636090a8002094 ""
+  "C:/Users/anton/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmti10.tfm" 1136765053 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
   "C:/Users/anton/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1247593066 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "C:/Users/anton/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247593067 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Users/anton/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247593067 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "C:/Users/anton/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247593066 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
+  "C:/Users/anton/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1247593067 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "C:/Users/anton/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/anton/AppData/Local/Programs/MiKTeX/tex/generic/iftex/iftex.sty" 1643997108 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
   "C:/Users/anton/AppData/Local/Programs/MiKTeX/tex/generic/iftex/ifvtex.sty" 1643997108 1057 525c2192b5febbd8c1f662c9468335bb ""
@@ -134,9 +136,9 @@
   "C:/Users/anton/AppData/Local/Programs/MiKTeX/tex/latex/translations/translations.sty" 1644048522 44247 2188b95d0ee74e31eca4d316263c58a7 ""
   "C:/Users/anton/AppData/Local/Programs/MiKTeX/tex/latex/trimspaces/trimspaces.sty" 1253165583 1380 971a51b00a14503ddf754cab24c3f209 ""
   "C:/Users/anton/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656233290 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "c:/Users/anton/OneDrive - mirkovic.no/Dokumenter/latex template/temp.tex" 1679678632 1615 454e6f54c1a4fbf1f443d65b32210075 ""
-  "temp.aux" 1679678634 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "temp.tex" 1679678632 1615 454e6f54c1a4fbf1f443d65b32210075 ""
+  "c:/Users/anton/OneDrive - mirkovic.no/Dokumenter/latex-template/temp.tex" 1679680369 1802 5958e704342833e09f995447fdb38304 ""
+  "temp.aux" 1679680370 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "temp.tex" 1679680369 1802 5958e704342833e09f995447fdb38304 ""
   (generated)
   "temp.aux"
   "temp.log"
