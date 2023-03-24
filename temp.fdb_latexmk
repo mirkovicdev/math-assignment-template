@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1679680369 "c:/Users/anton/OneDrive - mirkovic.no/Dokumenter/latex-template/temp.tex" "temp.pdf" "temp" 1679680371 0
+["pdflatex"] 1679680890 "c:/Users/anton/OneDrive - mirkovic.no/Dokumenter/latex-template/temp.tex" "temp.pdf" "temp" 1679680891 0
   "C:/Users/anton/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1679256438 83486 9208647d054da4672a050e7ed94c9aa5 ""
   "C:/Users/anton/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1679254495 23176374 ace984fc752e490e2a3959b817f67560 ""
   "C:/Users/anton/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -136,9 +136,9 @@
   "C:/Users/anton/AppData/Local/Programs/MiKTeX/tex/latex/translations/translations.sty" 1644048522 44247 2188b95d0ee74e31eca4d316263c58a7 ""
   "C:/Users/anton/AppData/Local/Programs/MiKTeX/tex/latex/trimspaces/trimspaces.sty" 1253165583 1380 971a51b00a14503ddf754cab24c3f209 ""
   "C:/Users/anton/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656233290 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "c:/Users/anton/OneDrive - mirkovic.no/Dokumenter/latex-template/temp.tex" 1679680369 1802 5958e704342833e09f995447fdb38304 ""
-  "temp.aux" 1679680370 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "temp.tex" 1679680369 1802 5958e704342833e09f995447fdb38304 ""
+  "c:/Users/anton/OneDrive - mirkovic.no/Dokumenter/latex-template/temp.tex" 1679680875 1802 e105596bdf77d8c7538d74f0c4312faa ""
+  "temp.aux" 1679680891 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "temp.tex" 1679680875 1802 e105596bdf77d8c7538d74f0c4312faa ""
   (generated)
   "temp.aux"
   "temp.log"
